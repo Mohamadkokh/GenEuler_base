@@ -277,7 +277,7 @@ If you use GenEuler in academic work, please cite the associated thesis:
   title   = {GenEuler Pipeline for Automated 3D Mesh Optimization:
              Integrating FEM Simulation, Topology Optimization, and SAC-GNN Modeling},
   author  = {Mohamad Kokh},
-  school  = {ESMT Berlin},
+  school  = {Humboldt - Chair of Information Systems},
   year    = {2025}
 }
 ```
