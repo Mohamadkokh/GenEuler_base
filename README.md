@@ -270,10 +270,10 @@ FEM + RL can be compute‑heavy. Close other apps or allocate more memory/cores 
 
 ## Citing
 
-If you use GenEuler in academic work, please cite the associated thesis:
+If you use GenEuler in academic work, please cite the associated Research:
 
 ```bibtex
-@thesis{Kokh2025GenEuler,
+@Humboldt{Kokh2025GenEuler,
   title   = {GenEuler Pipeline for Automated 3D Mesh Optimization:
              Integrating FEM Simulation, Topology Optimization, and SAC-GNN Modeling},
   author  = {Mohamad Kokh},
